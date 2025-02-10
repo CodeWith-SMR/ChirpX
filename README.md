@@ -5,63 +5,55 @@ CodeWithSMR
 
 
 
-Home/X Clone
+# Home/X Clone
 
-This project is a Twitter (X) Clone, designed to replicate the user interface of Twitter with modern frontend technologies.
+This project is a **Twitter (X) Clone**, designed to replicate the user interface of Twitter with modern frontend technologies.
 
-🔥 Features
+## 🔥 Features
 
-Fully responsive design
+- Fully responsive design
+- Dark mode UI
+- Sidebar navigation with icons
+- Trending topics section
+- User profile display
+- Interactive post component
 
-Dark mode UI
+## 🛠 Tech Stack
 
-Sidebar navigation with icons
+- **HTML5**
+- **CSS3**
+- **Tailwind CSS**
+- **JavaScript**
 
-Trending topics section
+## 🚀 Getting Started
 
-User profile display
-
-Interactive post component
-
-🛠 Tech Stack
-
-HTML5
-
-CSS3
-
-Tailwind CSS
-
-JavaScript
-
-🚀 Getting Started
-
-Prerequisites
+### Prerequisites
 
 Make sure you have the following installed:
 
-A modern web browser (Chrome, Firefox, Edge, etc.)
+- A modern web browser (Chrome, Firefox, Edge, etc.)
+- A local development server (optional)
 
-A local development server (optional)
+### Installation
 
-Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repository.git
+   ```
+2. Navigate to the project folder:
+   ```bash
+   cd your-repository
+   ```
+3. Open the `index.html` file in your browser:
+   ```
+   open index.html  (Mac)
+   start index.html (Windows)
+   ```
+   Or use Live Server in VS Code.
 
-Clone the repository:
+## 📁 Project Structure
 
-git clone https://github.com/your-username/your-repository.git
-
-Navigate to the project folder:
-
-cd your-repository
-
-Open the index.html file in your browser:
-
-open index.html  (Mac)
-start index.html (Windows)
-
-Or use Live Server in VS Code.
-
-📁 Project Structure
-
+```
 📂 project-folder
 ├── 📂 css
 │   ├── input.css
@@ -71,23 +63,27 @@ Or use Live Server in VS Code.
 │   ├── user-profile.png
 ├── index.html
 └── README.md
+```
 
-🎨 Customization
+## 🎨 Customization
 
-Modify the input.css file to change the styling.
+- Modify the `input.css` file to change the styling.
+- Update `index.html` to customize the layout.
+- Replace the images in the `/images` folder with your own assets.
 
-Update index.html to customize the layout.
-
-Replace the images in the /images folder with your own assets.
-
-🤝 Contributing
+## 🤝 Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-📜 License
+## 📜 License
 
 This project is licensed under the MIT License.
 
-✨ Author
+## ✨ Author
 
-Muhammad Raza - Frontend DeveloperCodeWith-SMR
+**Muhammad Raza** - *Frontend Developer*\
+[CodeWith-SMR](https://github.com/CodeWith-SMR)
+
+---
+
+⭐ Don't forget to give this project a star if you found it useful!
