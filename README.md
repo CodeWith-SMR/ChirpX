@@ -3,35 +3,91 @@
 CodeWithSMR
 
 
-Welcome to the Twitter-App project! This application mimics the core functionalities of Twitter, allowing users to create accounts, post tweets, follow other users, and interact with their feeds.
-
-## Features
-
-- **User Authentication:** Users can sign up and log in to their accounts securely.
-- **Tweet Posting:** Users can post, edit, and delete their tweets.
-- **Follow System:** Users can follow and unfollow other users.
-- **Feed Display:** Users can view their timeline with tweets from the accounts they follow.
-- **Like and Retweet:** Users can like and retweet other users' tweets.
-
-## Tech Stack
-
-- **Frontend:**
-- HTML
-- CSS
-
-## Getting Started
-
-To get a local copy up and running, follow these steps:
-
-1. **Clone the repo**
-   ```bash
-   https://codewith-smr.github.io/Twitter-App/
 
 
-# Usage
-Create an account or log in with your credentials.
-Start tweeting and interacting with others!
-Explore your timeline and follow users to see their tweets.
+Home/X Clone
 
-# Contributing
-Contributions are welcome! If you have suggestions for improvements or features, please feel free to submit a pull request.
+This project is a Twitter (X) Clone, designed to replicate the user interface of Twitter with modern frontend technologies.
+
+🔥 Features
+
+Fully responsive design
+
+Dark mode UI
+
+Sidebar navigation with icons
+
+Trending topics section
+
+User profile display
+
+Interactive post component
+
+🛠 Tech Stack
+
+HTML5
+
+CSS3
+
+Tailwind CSS
+
+JavaScript
+
+🚀 Getting Started
+
+Prerequisites
+
+Make sure you have the following installed:
+
+A modern web browser (Chrome, Firefox, Edge, etc.)
+
+A local development server (optional)
+
+Installation
+
+Clone the repository:
+
+git clone https://github.com/your-username/your-repository.git
+
+Navigate to the project folder:
+
+cd your-repository
+
+Open the index.html file in your browser:
+
+open index.html  (Mac)
+start index.html (Windows)
+
+Or use Live Server in VS Code.
+
+📁 Project Structure
+
+📂 project-folder
+├── 📂 css
+│   ├── input.css
+│   ├── output.css
+├── 📂 images
+│   ├── logo.png
+│   ├── user-profile.png
+├── index.html
+└── README.md
+
+🎨 Customization
+
+Modify the input.css file to change the styling.
+
+Update index.html to customize the layout.
+
+Replace the images in the /images folder with your own assets.
+
+🤝 Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+📜 License
+
+This project is licensed under the MIT License.
+
+✨ Author
+
+Muhammad Raza - Frontend DeveloperCodeWith-SMR
