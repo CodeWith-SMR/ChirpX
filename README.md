@@ -80,7 +80,13 @@ This project is licensed under the MIT License.
 
 ## ✨ Author
 
-
+**Muhammad Raza** - *Frontend Developer*\
+[GitHub](https://github.com/CodeWith-SMR)\
+[YouTube](https://www.youtube.com/@CodeWithSMR)\
+[Facebook](https://www.facebook.com/profile.php?id=61552142131093)\
+[Instagram](https://www.instagram.com/codewithsmrofficial/)\
+[Twitter](https://twitter.com/CodeWithSMR)\
+[LinkedIn](https://www.linkedin.com/in/muhammad-raza-653622346/)
 
 ---
 
